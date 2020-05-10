@@ -1,0 +1,27 @@
+﻿### Editor ###
+.idea/
+.ionide/
+.vscode/
+.history/
+.vs/
+node_modules/
+
+*.pdb
+*.user
+*.db
+*.rdb
+.DS_Store
+
+### Build ###
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x86/
+x64/
+[Bb]uild/
+[Dd]ist/
+
+### Nuget ###
+*.nuget.props
+artifacts/
