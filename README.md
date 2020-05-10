@@ -42,10 +42,10 @@ public IActionResult Test() { }
 
 ```bash
 # Package manager
-Install-Package AoiHosizora.Swagger -Version 1.0.1
+Install-Package AoiHosizora.Swagger -Version 1.0.3
 
 # .NET CLI
-dotnet add package AoiHosizora.Swagger --version 1.0.1
+dotnet add package AoiHosizora.Swagger --version 1.0.3
 ```
 
 ### Reference

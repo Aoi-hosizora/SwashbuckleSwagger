@@ -22,7 +22,7 @@ namespace AoiHosizora.Swagger.Filter {
                         Id = attr.Id
                     }
                 };
-                operation.Security.Add(new OpenApiSecurityRequirement {
+                securities.Add(new OpenApiSecurityRequirement {
                     [schema] = new string[] { }
                 });
             }
