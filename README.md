@@ -6,6 +6,14 @@
 
 + .NETCore >= 3.0
 
+### Functions
+
++ `FileUpload`
++ `SecurityApiKey`
++ `DefaultValue`
++ `Model`
++ `Property`
+
 ### Reference
 
 + [Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore)
