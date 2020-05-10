@@ -25,4 +25,4 @@ x64/
 ### Nuget ###
 *.nupkg
 *.nuget.props
-artifacts/
+*.nuspec
